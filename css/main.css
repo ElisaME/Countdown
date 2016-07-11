@@ -1,0 +1,35 @@
+body{
+	background-color: #5981b3;
+	font-family: 'Quicksand', sans-serif;
+}
+.title{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 3em;
+	color: #ffe826;
+	letter-spacing: 3px;
+	padding: 2%;
+}
+.caja{
+	display: inline-block;
+	background-color: rgba(23, 89, 146, 0.71);
+	padding:2%;
+	font-size: 4em;
+	color: #b0f7f1;
+	height:100px;
+	width:100px;
+	border-radius:3px;
+	text-align: center;
+}
+.desc{
+	color: #b0f7f1;
+	font-size: 20px;
+	font-weight: lighter;
+}
+.subtitle{
+	font-size: 2em;
+	color: #ffe826;
+	letter-spacing: 3px;
+}
+.clock{
+	padding: 3% 0;
+}
